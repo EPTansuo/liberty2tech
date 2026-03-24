@@ -1,0 +1,9 @@
+/bin/
+/build/
+/*.genlib
+/*.o
+/*.a
+/*.so
+/*.dylib
+*.log
+.DS_Store

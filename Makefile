@@ -38,4 +38,4 @@ clean:
 	rm -f $(BIN) $(OBJ)
 
 test: $(BIN)
-	./$(BIN) --help
+	./tests/test_dual_output.sh

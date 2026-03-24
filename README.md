@@ -17,6 +17,12 @@ make
 
 The binary is generated at `bin/liberty2tech`.
 
+Run the regression test suite with:
+
+```bash
+make test
+```
+
 The default build uses:
 
 - `c++` for `src/liberty2tech.cpp`
